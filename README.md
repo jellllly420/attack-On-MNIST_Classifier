@@ -1,1 +1,1 @@
-# course-tml-hmwk
+# course hmwk for TrustworthyML
